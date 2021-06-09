@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+tqdm
+datetime
+BeautifulSoup4
+requests
+lxml
+liftover
+pysam

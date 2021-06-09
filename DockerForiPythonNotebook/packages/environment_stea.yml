@@ -1,0 +1,9 @@
+name: stea
+dependencies:
+  - python=3.7
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - pip
+  - pip:
+    - -r file:requirements_stea.txt
